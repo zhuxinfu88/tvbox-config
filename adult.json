@@ -42,7 +42,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1
-	  },
+ },
   {
    "key": "xiaojizy",
    "name": "🔞小鸡",
@@ -307,7 +307,6 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
-  }
   }
  ]
 }
